@@ -1,4 +1,4 @@
-FROM node:20.1.0
+FROM node:16
 # Installing libvips-dev for sharp Compatability
 RUN apt-get update && apt-get install libvips-dev -y
 ENV NODE_ENV=production

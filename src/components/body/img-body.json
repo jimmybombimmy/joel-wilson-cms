@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_body_img_bodies",
+  "info": {
+    "displayName": "img+body",
+    "icon": "bold"
+  },
+  "options": {},
+  "attributes": {
+    "img": {
+      "type": "string"
+    },
+    "body": {
+      "type": "blocks"
+    }
+  }
+}

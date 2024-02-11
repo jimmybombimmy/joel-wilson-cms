@@ -1,10 +1,11 @@
 {
   "kind": "collectionType",
-  "collectionName": "articles",
+  "collectionName": "article_tests",
   "info": {
-    "singularName": "article",
-    "pluralName": "articles",
-    "displayName": "article"
+    "singularName": "article-test",
+    "pluralName": "article-tests",
+    "displayName": "article-test",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
